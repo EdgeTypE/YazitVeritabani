@@ -1,0 +1,2 @@
+# YazitVeritabani
+Yazıt Veritabanı
